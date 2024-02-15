@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ea45f02852168f28",
+        "id": "013ae6d8f4ee3162",
         "type": "tabs",
         "children": [
           {
-            "id": "92889edc0e7a9a71",
+            "id": "a182aec8c6e31827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test2/Untitled.md",
+                "file": "Broderick_Bodhi/Daily entries/2-15-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "9c019753e924bf5d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test2/Untitled.md",
+                "file": "Broderick_Bodhi/Daily entries/2-15-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test2/Untitled.md",
+                "file": "Broderick_Bodhi/Daily entries/2-15-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test2/Untitled.md"
+                "file": "Broderick_Bodhi/Daily entries/2-15-2024.md"
               }
             }
           }
@@ -143,13 +151,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "92889edc0e7a9a71",
+  "active": "a182aec8c6e31827",
   "lastOpenFiles": [
-    "Proctor_Nicholas/Pasted image 20240213120723.png",
+    "Home.md",
+    "Broderick_Bodhi/Daily entries/2-13-2024.md",
+    "Broderick_Bodhi/Daily entries/2-15-2024.md",
     "test2/Untitled.md",
+    "Broderick_Bodhi/Daily entries",
+    "Proctor_Nicholas/Pasted image 20240213120723.png",
     "test2",
     "test"
   ]
