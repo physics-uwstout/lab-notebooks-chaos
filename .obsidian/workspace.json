@@ -11,9 +11,11 @@
             "id": "92889edc0e7a9a71",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Proctor_Nicholas/Pasted image 20240213120723.png"
+                "file": "test2/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proctor_Nicholas/Pasted image 20240213120723.png",
+                "file": "test2/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proctor_Nicholas/Pasted image 20240213120723.png",
+                "file": "test2/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proctor_Nicholas/Pasted image 20240213120723.png"
+                "file": "test2/Untitled.md"
               }
             }
           }
@@ -144,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a89162d6ff222025",
+  "active": "92889edc0e7a9a71",
   "lastOpenFiles": [
+    "Proctor_Nicholas/Pasted image 20240213120723.png",
+    "test2/Untitled.md",
     "test2",
     "test"
   ]
