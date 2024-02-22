@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "013ae6d8f4ee3162",
+        "id": "31bbafe53d206a7a",
         "type": "tabs",
         "children": [
           {
-            "id": "a182aec8c6e31827",
+            "id": "6bf844da29bad195",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Broderick_Bodhi/Daily entries/2-15-2024.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Broderick_Bodhi/Daily entries/2-15-2024.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Broderick_Bodhi/Daily entries/2-15-2024.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Broderick_Bodhi/Daily entries/2-15-2024.md"
+                "file": "Home.md"
               }
             }
           }
@@ -156,11 +156,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a182aec8c6e31827",
+  "active": "6bf844da29bad195",
   "lastOpenFiles": [
+    "Pasted image 20240220102833.png",
+    "Broderick_Bodhi/PDFs/Chaos and the Double Pendulum - SP22.pdf",
+    "Broderick_Bodhi/Daily entries/2-20-2024.md",
+    "Broderick_Bodhi/PDFs/2015_AAPT-ALPhA_Award.pdf",
+    "Broderick_Bodhi/Daily entries/2-15-2024.md",
     "Home.md",
     "Broderick_Bodhi/Daily entries/2-13-2024.md",
-    "Broderick_Bodhi/Daily entries/2-15-2024.md",
     "test2/Untitled.md",
     "Broderick_Bodhi/Daily entries",
     "Proctor_Nicholas/Pasted image 20240213120723.png",
