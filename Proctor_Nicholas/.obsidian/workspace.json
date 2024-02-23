@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "f98d0595961b4b3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd19cc951673c777",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e294635196e183e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proctor Nicholas Table of Contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44b42e67b9602633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jupyter Notebooks and Data Files/Date Entries/2024-02-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cba9d4ae6b02c975",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4cd72f57e081524",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de325e80c79209ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "efeb5c8d0bd86798",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b88d9fe96e20d141",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2da1d4cdb285d559",
+    "type": "split",
+    "children": [
+      {
+        "id": "fae86d1f3164f75e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40ad40ea78af3684",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Jupyter Notebooks and Data Files/Date Entries/2024-02-20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b09aa1dbfd2e877",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Jupyter Notebooks and Data Files/Date Entries/2024-02-20.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1366b8c3e4ee73b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d2193a0e93e84e4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Jupyter Notebooks and Data Files/Date Entries/2024-02-20.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "44b42e67b9602633",
+  "lastOpenFiles": [
+    "2024-02-22.md",
+    "Proctor Nicholas Table of Contents.md"
+  ]
+}
