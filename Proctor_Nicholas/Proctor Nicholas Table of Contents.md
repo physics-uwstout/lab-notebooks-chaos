@@ -1,5 +1,11 @@
 This is an example of the folder and file structure for your lab notebook.  Organize your subfolders the same way you see here.
 
+- [[2024-02-22]]
+	- Data Stability
+- [[2024-02-20]]
+	- Data Aggression
+- [[2024-02-15]]
+	- GitHub Syncing
 - [[2024-02-13]]
 	- Dynamic Bounding
 	- RPI setup 
