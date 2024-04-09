@@ -23,14 +23,28 @@
             "id": "493e643b74c69cc6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Broderick_Bodhi/PDFs/2015_AAPT-ALPhA_Award.pdf"
+                "file": "Broderick_Bodhi/Daily entries/4-2-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed927a3d46b64296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Broderick_Bodhi/Daily entries/4-9-2024.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Broderick_Bodhi/PDFs/2015_AAPT-ALPhA_Award.pdf",
+                "file": "Broderick_Bodhi/Daily entries/4-9-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Broderick_Bodhi/PDFs/2015_AAPT-ALPhA_Award.pdf",
+                "file": "Broderick_Bodhi/Daily entries/4-9-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Broderick_Bodhi/PDFs/2015_AAPT-ALPhA_Award.pdf"
+                "file": "Broderick_Bodhi/Daily entries/4-9-2024.md"
               }
             }
           }
@@ -165,18 +179,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "493e643b74c69cc6",
+  "active": "ed927a3d46b64296",
   "lastOpenFiles": [
     "Broderick_Bodhi/PDFs/Mechanical_Chaotic_Oscillator.pdf",
-    "Broderick_Bodhi/PDFs/Chaos and the Double Pendulum - SP22.pdf",
+    "Broderick_Bodhi/PDFs/Gauthier - 2003 - Resource Letter CC-1 Controlling chaos.pdf",
     "Broderick_Bodhi/PDFs/Duffing-Tamaseviciute.pdf",
-    "Broderick_Bodhi/PDFs/Chaotic_Rotor_Lab_Manual.pdf",
-    "Broderick_Bodhi/Daily entries/3-28-2024.md",
-    "Broderick_Bodhi/Daily entries/3-26-2024.md",
     "Broderick_Bodhi/PDFs/2015_AAPT-ALPhA_Award.pdf",
-    "Broderick_Bodhi/Daily entries/3-21-2024.md",
+    "Broderick_Bodhi/PDFs/Chaotic_Rotor_Lab_Manual.pdf",
+    "Broderick_Bodhi/PDFs/Chaos and the Double Pendulum - SP22.pdf",
+    "Broderick_Bodhi/Daily entries/3-28-2024.md",
+    "Broderick_Bodhi/Daily entries/4-9-2024.md",
+    "Broderick_Bodhi/Daily entries/2-27-2024.md",
+    "Broderick_Bodhi/Daily entries/2-22-2024.md",
+    "Broderick_Bodhi/Daily entries/2-20-2024.md",
     "Broderick_Bodhi/Daily entries/3-19-2024.md",
     "Broderick_Bodhi/Daily entries/3-7-2024.md",
+    "Broderick_Bodhi/Daily entries/3-21-2024.md",
+    "Broderick_Bodhi/Daily entries/3-26-2024.md",
+    "Broderick_Bodhi/Daily entries/4-2-2024.md",
+    "Broderick_Bodhi/Daily entries/4-4-2024.md",
+    "Pasted image 20240227095423.png",
+    "Broderick_Bodhi/Daily entries/2-29-2024.md",
+    "Broderick_Bodhi/Daily entries/3-5-2024.md",
+    "Broderick_Bodhi/Daily entries/2-6-2024.md",
+    "Broderick_Bodhi/Daily entries/2-8-2024.md",
+    "Broderick_Bodhi/Daily entries/2-13-2024.md",
+    "Broderick_Bodhi/Daily entries/2-15-2024.md",
     "Proctor_Nicholas/Presentations/Chaotic Oscillators.pptx",
     "Proctor_Nicholas/Presentations",
     "Proctor_Nicholas/Misc Files/Pasted image 20240213120723.png",
@@ -188,28 +216,15 @@
     "Proctor_Nicholas/Misc Files/Figure_4.png",
     "Proctor_Nicholas/Misc Files/Figure_3.png",
     "Proctor_Nicholas/Misc Files/Figure_2.png",
-    "Proctor_Nicholas/Misc Files/Figure_10.png",
     "Proctor_Nicholas/Misc Files",
     "Proctor_Nicholas/Jupyter Notebooks and Data Files/Date Entries/2024-03-05.md",
     "Proctor_Nicholas/Jupyter Notebooks and Data Files/Date Entries/2024-02-27.md",
     "Proctor_Nicholas/Jupyter Notebooks and Data Files/Date Entries/2024-02-22.md",
     "Proctor_Nicholas/Jupyter Notebooks and Data Files/Date Entries/2024-02-20.md",
     "Proctor_Nicholas/Jupyter Notebooks and Data Files/Date Entries/2024-02-15.md",
-    "Broderick_Bodhi/Daily entries/3-5-2024.md",
     "Broderick_Bodhi/Untitled.md",
-    "Broderick_Bodhi/Daily entries/2-29-2024.md",
     "Broderick_Bodhi/PDFs/Zimmerman et al. - 1992 - The electronic bouncing ball.pdf",
-    "Broderick_Bodhi/Daily entries/2-27-2024.md",
     "Broderick_Bodhi/Broderick Bodhi Table of Contents.md",
-    "Broderick_Bodhi/Daily entries/2-22-2024.md",
-    "Broderick_Bodhi/Daily entries/2-20-2024.md",
-    "Broderick_Bodhi/Daily entries/2-15-2024.md",
-    "2024-02-01.md",
-    "Broderick_Bodhi/Daily entries/2-6-2024.md",
-    "Broderick_Bodhi/Daily entries/2-13-2024.md",
-    "Broderick_Bodhi/Daily entries/2-8-2024.md",
-    "Broderick_Bodhi/PDFs/Gauthier - 2003 - Resource Letter CC-1 Controlling chaos.pdf",
-    "Home.md",
-    "test2/Untitled.md"
+    "2024-02-01.md"
   ]
 }
