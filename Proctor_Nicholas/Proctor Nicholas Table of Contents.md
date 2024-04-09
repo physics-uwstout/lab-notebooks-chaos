@@ -1,5 +1,13 @@
 This is an example of the folder and file structure for your lab notebook.  Organize your subfolders the same way you see here.
 
+- [[2024-03-28]]
+	- Circuit-board Analysis
+- [[2024-03-26]]
+	- Circuit-board Analysis
+- [[2024-03-21]]
+	- Circuit-board Analysis Cont
+- [[2024-03-19]]
+	- Circuit-board Analysis
 - [[2024-03-05]]
 	- Reading from Report
 - [[2024-02-29]]
