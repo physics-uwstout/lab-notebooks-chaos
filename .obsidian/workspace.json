@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Broderick_Bodhi/Daily entries/4-18-2024.md",
+                "file": "Broderick_Bodhi/Daily entries/4-25-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Broderick_Bodhi/Daily entries/4-18-2024.md",
+                "file": "Broderick_Bodhi/Daily entries/4-25-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Broderick_Bodhi/Daily entries/4-18-2024.md",
+                "file": "Broderick_Bodhi/Daily entries/4-25-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Broderick_Bodhi/Daily entries/4-18-2024.md"
+                "file": "Broderick_Bodhi/Daily entries/4-25-2024.md"
               }
             }
           }
@@ -181,9 +181,19 @@
   },
   "active": "ed927a3d46b64296",
   "lastOpenFiles": [
+    "Broderick_Bodhi/Daily entries/4-23-2024.md",
+    "Broderick_Bodhi/Daily entries/4-25-2024.md",
+    "Broderick_Bodhi/PDFs/2015_AAPT-ALPhA_Award.pdf",
+    "Broderick_Bodhi/PDFs/Chaotic_Rotor_Lab_Manual.pdf",
+    "Broderick_Bodhi/PDFs/Duffing-Tamaseviciute.pdf",
+    "Broderick_Bodhi/PDFs/Mechanical_Chaotic_Oscillator.pdf",
+    "Broderick_Bodhi/Daily entries/4-11-2024.md",
     "Broderick_Bodhi/Daily entries/4-16-2024.md",
     "Broderick_Bodhi/Daily entries/4-18-2024.md",
-    "Broderick_Bodhi/PDFs/2015_AAPT-ALPhA_Award.pdf",
+    "Broderick_Bodhi/Daily entries/3-28-2024.md",
+    "Broderick_Bodhi/Daily entries/4-2-2024.md",
+    "Broderick_Bodhi/Daily entries/4-4-2024.md",
+    "Broderick_Bodhi/Daily entries/4-9-2024.md",
     "Broderick_Bodhi/PDFs/Chaos and the Double Pendulum - SP22.pdf",
     "Broderick_Bodhi/Daily entries/2-27-2024.md",
     "Broderick_Bodhi/Daily entries/2-29-2024.md",
@@ -192,17 +202,9 @@
     "Broderick_Bodhi/Daily entries/3-26-2024.md",
     "Broderick_Bodhi/Daily entries/3-21-2024.md",
     "Broderick_Bodhi/Daily entries/3-19-2024.md",
-    "Broderick_Bodhi/PDFs/Duffing-Tamaseviciute.pdf",
-    "Broderick_Bodhi/PDFs/Mechanical_Chaotic_Oscillator.pdf",
     "Broderick_Bodhi/PDFs/latexcheatsheet.pdf",
-    "Broderick_Bodhi/PDFs/Chaotic_Rotor_Lab_Manual.pdf",
     "Broderick_Bodhi/PDFs/Gauthier - 2003 - Resource Letter CC-1 Controlling chaos.pdf",
     "Broderick_Bodhi/Daily entries/2-22-2024.md",
-    "Broderick_Bodhi/Daily entries/4-9-2024.md",
-    "Broderick_Bodhi/Daily entries/4-4-2024.md",
-    "Broderick_Bodhi/Daily entries/4-2-2024.md",
-    "Broderick_Bodhi/Daily entries/3-28-2024.md",
-    "Broderick_Bodhi/Daily entries/4-11-2024.md",
     "Broderick_Bodhi/PDFs/Zimmerman et al. - 1992 - The electronic bouncing ball.pdf",
     "Proctor_Nicholas/Presentations/Chaotic Oscillators 2.pptx",
     "Proctor_Nicholas/PDFs/tl062a.pdf",
@@ -224,8 +226,6 @@
     "Proctor_Nicholas/Misc Files/Figure_9.png",
     "Proctor_Nicholas/Misc Files/Figure_8.png",
     "Proctor_Nicholas/Misc Files/Figure_7.png",
-    "Proctor_Nicholas/Misc Files/Figure_6.png",
-    "Proctor_Nicholas/Jupyter Notebooks and Data Files/Date Entries/2024-03-05.md",
-    "Proctor_Nicholas/Jupyter Notebooks and Data Files/Date Entries/2024-02-27.md"
+    "Proctor_Nicholas/Misc Files/Figure_6.png"
   ]
 }
