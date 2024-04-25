@@ -1,5 +1,15 @@
 This is an example of the folder and file structure for your lab notebook.  Organize your subfolders the same way you see here.
 
+- [[2024-04-25]]
+	- Parallel Processing
+- [[2024-04-23]]
+	- Graphing
+- [[2024-04-18]]
+	- Graphing
+- [[2024-04-16]]
+	- Graphing & Coding
+- [[2024-04-11]]
+	- Soldering & Setup
 - [[2024-04-09]]
 	- Oscillation?
 - [[2024-04-04]]
